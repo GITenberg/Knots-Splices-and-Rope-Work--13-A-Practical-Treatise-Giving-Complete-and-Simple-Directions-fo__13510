@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5100
     wikipedia: http://en.wikipedia.org/wiki/Alpheus_Hyatt_Verrill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13510#Knots-Splices-and-Rope-Work--13-A-Practical-Treatise-Giving-Complete-and-Simple-Directions-fo_
 gutenberg_issued: '2004-09-21'
 gutenberg_type: Text
 identifiers:
